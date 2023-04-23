@@ -1,2 +1,2 @@
 # ML_Projects
-This repo contains my Machine Learning projects.
+This repo contains my Machine Learning/Data Analysis projects.
